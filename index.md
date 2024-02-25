@@ -29,7 +29,7 @@ We train ROSVOT with M4Singer dataset and utilize which to annotate and generate
 
 1. \<breath> 如 果 那 两 个 字 没 有 颤 抖 \<breath> 我 不 会 发 现 我 难 受 \<breath> 怎 么 说 出 口 \<silence>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -68,7 +68,7 @@ We train ROSVOT with M4Singer dataset and utilize which to annotate and generate
     </table>
 2. 再 一 次 沾 染 你 \<breath> 若 生 命 \<breath> 如 过 场 电 影 \<breath>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -107,7 +107,7 @@ We train ROSVOT with M4Singer dataset and utilize which to annotate and generate
     </table>
 3. 能 够 握 紧 的 就 别 放 了 \<breath> 能 够 拥 抱 的 就 别 拉 扯 \<breath> 时 间 着 急 地 \<breath>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -146,7 +146,7 @@ We train ROSVOT with M4Singer dataset and utilize which to annotate and generate
     </table>
 4. 去 寻 找 遗 失 了 的 思 念 \<breath> 如 果 你 在 眼 前 \<breath> 我 会 让 你 看 见 \<silence>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -197,7 +197,7 @@ We use MFA and the same ROSVOT trained with M4Singer to re-align and re-annotate
 
 1. \<breath> 如 果 那 两 个 字 没 有 颤 抖 \<breath> 我 不 会 发 现 我 难 受 \<breath> 怎 么 说 出 口 \<silence>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -233,7 +233,7 @@ We use MFA and the same ROSVOT trained with M4Singer to re-align and re-annotate
 
 2. 再 一 次 沾 染 你 \<breath> 若 生 命 \<breath> 如 过 场 电 影 \<breath>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -269,7 +269,7 @@ We use MFA and the same ROSVOT trained with M4Singer to re-align and re-annotate
 
 3. 能 够 握 紧 的 就 别 放 了 \<breath> 能 够 拥 抱 的 就 别 拉 扯 \<breath> 时 间 着 急 地 \<breath>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -305,7 +305,7 @@ We use MFA and the same ROSVOT trained with M4Singer to re-align and re-annotate
 
 4. 去 寻 找 遗 失 了 的 思 念 \<breath> 如 果 你 在 眼 前 \<breath> 我 会 让 你 看 见 \<silence>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -341,7 +341,7 @@ We use MFA and the same ROSVOT trained with M4Singer to re-align and re-annotate
 
 5. 我 想 唱 一 首 歌 给
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
@@ -379,7 +379,7 @@ We use MFA and the same ROSVOT trained with M4Singer to re-align and re-annotate
 
 6. 却 是 下 落 不 详 \<breath> 心 好 \<silence> 空 荡 \<breath>
 
-    <table style='width: 20%;'>
+    <table style='width: 30%;'>
         <thead>
         <tr>
             <th></th>
